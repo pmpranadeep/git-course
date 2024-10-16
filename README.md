@@ -1,2 +1,2 @@
-#git-course
-# I am Pranadeep
+# git-course
+
